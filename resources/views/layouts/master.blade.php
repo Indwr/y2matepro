@@ -15,11 +15,11 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.14.1/css/mdb.min.css" rel="stylesheet">
 </head>
 <body class="stretched">
-<div class="container-fluid">
+
  <div id="wrapper" class="clearfix">
 @include('layouts.header')
 @yield('content')
-</div>
+
 </div>
 @yield('js')
 @include('layouts.footer')
