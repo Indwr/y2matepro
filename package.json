@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "chart.js": "^2.9.3",
-        "jquery-ui": "^1.12.1",
+        "jquery-ui": "^1.13.2",
         "mdbootstrap": "^4.14.1"
     }
 }
